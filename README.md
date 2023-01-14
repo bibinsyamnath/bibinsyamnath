@@ -1,4 +1,4 @@
-[Home](https://bibinsyamnath.github.io) | [Stack Overflow](https://stackoverflow.com/users/4518696/bibinsyamnath) | [Linkedin](https://www.linkedin.com/in/bibinsyamnath/) | [Facebook](https://www.facebook.com/bibinsyamnath) | [Youtube](https://www.youtube.com/channel/UCCtGby7nF-FHosJKvoLVB-A)
+[Home](https://bibinsyamnath.github.io) | [Stack Overflow](https://stackoverflow.com/users/4518696/bibinsyamnath) | [Linkedin](https://www.linkedin.com/in/bibinsyamnath/) | [Facebook](https://www.facebook.com/bibinsyamnath) | [Youtube](https://www.youtube.com/@bibinsyamnath)
 
 <!--
 **bibinsyamnath/bibinsyamnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
